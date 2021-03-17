@@ -38,7 +38,8 @@ namespace N01432018_Assignment2.Controllers
         ///                      count for b = 3 + 2(position of b=2) = 5 + 1(timeout) =6
         ///                      count for b= 6 + 1(position of a=1) = 7
         ///             The output will be 6 (2 22 2 22 ) = 7
-        ///    //////     
+        ///    //////  
+        ///    J3 Problem Siolution
     }
 
     ///</logic>
